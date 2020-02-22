@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/Bloxorz$Level0$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Block.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/Bloxorz$Level1$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/InfiniteTerrain.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/Bloxorz$InfiniteLevel$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Move.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Right$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/Bloxorz$Level.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/StringParserTerrain.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Left$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Up$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/Bloxorz$delayedInit$body.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Block$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/Solver.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/Bloxorz$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/Bloxorz.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Down$.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Pos.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef.class, /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes/streams/GameDef$Pos$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/salmansiddiqui/Documents/scala/streams/src/main/scala/streams/Bloxorz.scala, /Users/salmansiddiqui/Documents/scala/streams/src/main/scala/streams/GameDef.scala, /Users/salmansiddiqui/Documents/scala/streams/src/main/scala/streams/StringParserTerrain.scala, /Users/salmansiddiqui/Documents/scala/streams/src/main/scala/streams/Solver.scala, /Users/salmansiddiqui/Documents/scala/streams/src/main/scala/streams/InfiniteTerrain.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 5 Scala sources to /Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 24aee54 for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/classes:/Users/salmansiddiqui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/salmansiddiqui/Documents/scala/streams/target/scala-2.13/classes:/Users/salmansiddiqui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalacheck/scalacheck_2.13/1.14.0/scalacheck_2.13-1.14.0.jar:/Users/salmansiddiqui/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.52517797 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

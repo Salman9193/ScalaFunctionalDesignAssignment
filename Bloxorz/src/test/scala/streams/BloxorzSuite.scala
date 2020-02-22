@@ -21,19 +21,19 @@ class BloxorzSuite {
           case Up => block.up
           case Down => block.down
         }
-    }
+      }
   }
 
   trait Level1 extends SolutionChecker {
-      /* terrain for level 1*/
+    /* terrain for level 1*/
 
     val level =
-    """ooo-------
-      |oSoooo----
-      |ooooooooo-
-      |-ooooooooo
-      |-----ooToo
-      |------ooo-""".stripMargin
+      """ooo-------
+        |oSoooo----
+        |ooooooooo-
+        |-ooooooooo
+        |-----ooToo
+        |------ooo-""".stripMargin
 
     val optsolution = List(Right, Right, Down, Right, Right, Right, Down)
   }
