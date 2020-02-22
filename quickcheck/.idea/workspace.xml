@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff8414f4-b6bd-4c7e-b118-8cfbf41f9a56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VeciVyUxg3XyxvviUcOZsSEFBh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="QuickCheckBinomialHeap" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="quickcheck.QuickCheckBinomialHeap" />
+      <module name="progfun2-quickcheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quickcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickCheckBinomialHeap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-quickcheck" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="quickcheck [file:/Users/salmansiddiqui/Documents/scala/quickcheck/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-quickcheck-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429278676000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1894857077" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../streams" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff8414f4-b6bd-4c7e-b118-8cfbf41f9a56" name="Default Changelist" comment="" />
+      <created>1577617128081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577617128081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom" timestamp="1577687293811">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577651744414" />
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1577687091398" />
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom/0.23.1920.977/-1680.23.1680.1027@0.23.1920.977" timestamp="1577687293811" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center" timestamp="1577687293810">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577651744413" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1577687091396" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center/0.23.1920.977/-1680.23.1680.1027@0.23.1920.977" timestamp="1577687293810" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left" timestamp="1577687293809">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577651744412" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1577687091395" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left/0.23.1920.977/-1680.23.1680.1027@0.23.1920.977" timestamp="1577687293809" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right" timestamp="1577687293810">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577651744414" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1577687091397" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right/0.23.1920.977/-1680.23.1680.1027@0.23.1920.977" timestamp="1577687293810" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/progfun2_quickcheck$QuickCheckBinomialHeap.ic" NAME="QuickCheckBinomialHeap Coverage Results" MODIFIED="1577687091351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quickcheck.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+> webUI/fastOptJS
+> webUI/fastOptJS;
+sbt > webUI/fastOptJS;
+sbt webUI/fastOptJS
+webUI/fastOptJS
+compile
+test
+compile
+test
+webUI/fastOptJS
+test
+submit salman.vnit@gmail.com QVwGVCWvkwHx7ntX
+submit salman.vnit@gmail.com TyRBxAwd7TPGr3o0
+compile
+test
+cd ..
+ext
+exit
